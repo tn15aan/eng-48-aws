@@ -41,7 +41,7 @@ To set a path e.g. if you had to download dos2unix -h
 Path > edit system environment variables > environmental envariables
 Copy dos2unix and put it inside windows/system32
 
-To terminate:
+## To terminate:
 Exit ubuntu
 Actions > Instance State > Stop > wait to stop then Terminate
 To run it had to add
