@@ -37,7 +37,7 @@ To run provision file:
 To give executable instructions:
 chmod +x provision.sh
 
-To set a path e.g. if you had to download dos2unix -h
+To set a path e.g. if you had to download dos2unix (check it using command dos2unix -h)
 Path > edit system environment variables > environmental envariables
 Copy dos2unix and put it inside windows/system32
 
