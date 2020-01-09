@@ -16,6 +16,8 @@ curl -sL https://deb.nodesource.com/setup_6.x | sudo -E bash -
 sudo apt-get install nodejs -y
 
 ### My installations
+sudo apt install npm
+npm install
 sudo npm install ejs mongoose express
 
 # install pm2
