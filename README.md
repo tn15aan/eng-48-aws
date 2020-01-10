@@ -42,7 +42,7 @@ Path > edit system environment variables > environmental envariables
 Copy dos2unix and put it inside windows/system32
 
 ## To terminate:
-Exit ubuntu
+Exit ubuntu...
 Actions > Instance State > Stop > wait to stop then Terminate
 To run it had to add
 sudo npm install ejs mongoose express into app / installed twice using
